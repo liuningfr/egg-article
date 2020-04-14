@@ -1,0 +1,13 @@
+./server/logs/
+./server/npm-debug.log
+./server/yarn-error.log
+./server/node_modules/
+./server/package-lock.json
+./server/yarn.lock
+./server/coverage/
+./server/.idea/
+./server/run/
+./server/*.sw*
+./server/*.un~
+./server/typings/
+./server/.nyc_output/
